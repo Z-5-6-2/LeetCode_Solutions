@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     public String convert(String s, int numRows) {
         int sl=s.length();
