@@ -47,8 +47,8 @@ class Solution {
 public class Main {
 
     public static void main(String[] args) {
-        int [] listA={0,1,2,3};
-        int [] listB={4,5,6,7};
+        int [] listA={1,2,4};
+        int [] listB={1,3,4};
 
        ListNode list1=buildList(listA);
        ListNode list2=buildList(listB);
